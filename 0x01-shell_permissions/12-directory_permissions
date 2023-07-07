@@ -1,2 +1,2 @@
 #!/bin/bash
-nkdir 711 my_dir
+nkdir -m  711 my_dir
