@@ -1,1 +1,1 @@
-this repo contains my learning journey of Shell basics commands
+ this is README file of 0x03. Shell project 
