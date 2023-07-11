@@ -1,2 +1,2 @@
 #!/bin/bash
-tr Ac Zc
+tr "A""Z" | tr "C""c"
